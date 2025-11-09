@@ -5,3 +5,8 @@
 - [ ] character clustering / core analysis
 
 - region??
+
+Problems
+- Database contains pronouns (he, she, him, her). So have to replace that with proper contextual names
+- Rama = Raghava? 
+- 
