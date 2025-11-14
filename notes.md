@@ -7,6 +7,17 @@
 - region??
 
 Problems
-- Database contains pronouns (he, she, him, her). So have to replace that with proper contextual names
+- Database contains pronouns (he, she, him, her). So have to replace that with proper contextual names (Disambiguation)
 - Rama = Raghava? 
-- 
+- should also replace "his father" -> "Dasaratha" 
+
+- CCD Analysis
+- Sentiment Analysis (green-red graph)
+
+## Dataset pre-processing
+1. finding dataset -- initial dataset was poetic, found a sanskrit -> english explanation mapped dataset which had narrative capacity
+2. pronoun resolution / disambiguition -- replacing he / him with character names according to context
+2.5. "his brother" / "his father" -> actual names according to context
+
+3. extracting proper nouns from the text (character names, places, entities, ..)
+4. character names and aliases mapping. mapping rama -> raghava, katshulaya. + similar spelling mapping. lakshman -> lakshmana, lakshmanan, ...| validated mapping after that
