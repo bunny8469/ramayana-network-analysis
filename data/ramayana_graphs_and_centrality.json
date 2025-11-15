@@ -1,0 +1,3776 @@
+{
+    "metadata": {
+        "total_canonical_characters": 777,
+        "total_appearing_characters": 759,
+        "undirected_graph": {
+            "nodes": 737,
+            "edges": 5978,
+            "description": "Co-occurrence network (window=15 words)."
+        },
+        "directed_graph": {
+            "nodes": 166,
+            "edges": 478,
+            "description": "Conversational network (Source -> Target using discourse markers)."
+        }
+    },
+    "centrality_results_undirected": {
+        "Arjuna": {
+            "degree_centrality": 0.019021739130434784,
+            "eigenvector_centrality": 0.00031378247534913345
+        },
+        "Mainda": {
+            "degree_centrality": 0.09103260869565218,
+            "eigenvector_centrality": 0.003937153680182884
+        },
+        "Palasa": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 2.2764597357510193e-92
+        },
+        "Ayomukha": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 0.0002707571738329138
+        },
+        "Suka": {
+            "degree_centrality": 0.025815217391304348,
+            "eigenvector_centrality": 0.004037198977989877
+        },
+        "Agniketu": {
+            "degree_centrality": 0.04483695652173913,
+            "eigenvector_centrality": 0.0006102295002284554
+        },
+        "Durjaya": {
+            "degree_centrality": 0.019021739130434784,
+            "eigenvector_centrality": 0.0006359227235039313
+        },
+        "Shiva": {
+            "degree_centrality": 0.10733695652173912,
+            "eigenvector_centrality": 0.0105180722409705
+        },
+        "Teekshanavega": {
+            "degree_centrality": 0.020380434782608696,
+            "eigenvector_centrality": 2.6252634331572212e-05
+        },
+        "Mayamayi": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 8.233741815974436e-05
+        },
+        "Somadatta": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 0.000200673551902184
+        },
+        "Indra": {
+            "degree_centrality": 0.25407608695652173,
+            "eigenvector_centrality": 0.06870131328356405
+        },
+        "Sanuprastha": {
+            "degree_centrality": 0.020380434782608696,
+            "eigenvector_centrality": 0.0002631754831580383
+        },
+        "Kausiki": {
+            "degree_centrality": 0.014945652173913044,
+            "eigenvector_centrality": 0.0005565417242371479
+        },
+        "Yagnakopa": {
+            "degree_centrality": 0.02717391304347826,
+            "eigenvector_centrality": 0.00022439547560450197
+        },
+        "Saptaparni": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 2.7396995057658117e-05
+        },
+        "Renuka": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 0.00010640589007644599
+        },
+        "Samvartaka": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 0.0002756981458342291
+        },
+        "Danu": {
+            "degree_centrality": 0.028532608695652172,
+            "eigenvector_centrality": 0.0007787295366946306
+        },
+        "Sita": {
+            "degree_centrality": 0.2391304347826087,
+            "eigenvector_centrality": 0.48550753647346373
+        },
+        "Kalmashapada": {
+            "degree_centrality": 0.02717391304347826,
+            "eigenvector_centrality": 1.492046159345546e-05
+        },
+        "Hemachandra": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 0.0004001030205476284
+        },
+        "Sumukha": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 5.442888386969569e-06
+        },
+        "Moha": {
+            "degree_centrality": 0.024456521739130432,
+            "eigenvector_centrality": 0.0007238090747912672
+        },
+        "Saravati": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 0.00022997848749890102
+        },
+        "Sarvanabha": {
+            "degree_centrality": 0.020380434782608696,
+            "eigenvector_centrality": 0.0014209224856175755
+        },
+        "Gopa": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 4.7407185165230113e-07
+        },
+        "Sramana": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 9.972138160113264e-05
+        },
+        "Hintala": {
+            "degree_centrality": 0.012228260869565216,
+            "eigenvector_centrality": 4.542900042250474e-07
+        },
+        "Asita": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 8.386584926320423e-05
+        },
+        "Vritra": {
+            "degree_centrality": 0.024456521739130432,
+            "eigenvector_centrality": 0.0018134265506942798
+        },
+        "Hladini": {
+            "degree_centrality": 0.012228260869565216,
+            "eigenvector_centrality": 0.00010612559435359666
+        },
+        "Sarchirmali": {
+            "degree_centrality": 0.029891304347826088,
+            "eigenvector_centrality": 2.779309491026987e-05
+        },
+        "Sesha": {
+            "degree_centrality": 0.025815217391304348,
+            "eigenvector_centrality": 0.00027500971500926566
+        },
+        "Bharadwaja": {
+            "degree_centrality": 0.04619565217391304,
+            "eigenvector_centrality": 0.008380018794316815
+        },
+        "Yayati": {
+            "degree_centrality": 0.014945652173913044,
+            "eigenvector_centrality": 0.0014898568710846034
+        },
+        "Shukra": {
+            "degree_centrality": 0.021739130434782608,
+            "eigenvector_centrality": 0.000336100238788739
+        },
+        "Suhotra": {
+            "degree_centrality": 0.025815217391304348,
+            "eigenvector_centrality": 0.0005158682239339506
+        },
+        "Archisman": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 8.34229526772578e-05
+        },
+        "Vegadarsa": {
+            "degree_centrality": 0.03804347826086957,
+            "eigenvector_centrality": 0.0005861339514611569
+        },
+        "Drudhanabha": {
+            "degree_centrality": 0.024456521739130432,
+            "eigenvector_centrality": 0.0003119019389637859
+        },
+        "Silavaha": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 0.0001044338655080451
+        },
+        "Varuni": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 0.0004025620440637838
+        },
+        "Budha": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 5.77067785388566e-05
+        },
+        "Vishwakarma": {
+            "degree_centrality": 0.035326086956521736,
+            "eigenvector_centrality": 0.0010122269480907597
+        },
+        "Meghavan": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 3.2389984319756316e-05
+        },
+        "Sarvakarani": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 0.0002518107912964229
+        },
+        "Pravriddha": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 0.00023910585563027375
+        },
+        "Suki": {
+            "degree_centrality": 0.020380434782608696,
+            "eigenvector_centrality": 0.00010117197077407109
+        },
+        "Brihadratha": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 7.114071829114476e-08
+        },
+        "Omkara": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 2.2764597357510193e-92
+        },
+        "Sardooli": {
+            "degree_centrality": 0.014945652173913044,
+            "eigenvector_centrality": 0.0004058099011055381
+        },
+        "Athiratha": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 0.00010167751827092978
+        },
+        "Vasumati": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 9.996707946048469e-05
+        },
+        "Romapada": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 0.0004713982308590232
+        },
+        "Bhrisasva": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 0.000724302475027767
+        },
+        "Hrasvaroma": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 2.879482673820567e-05
+        },
+        "Torana": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 0.00011680857898177704
+        },
+        "Supraja": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 4.838579120685713e-05
+        },
+        "Saraswati": {
+            "degree_centrality": 0.016304347826086956,
+            "eigenvector_centrality": 4.935025091716732e-05
+        },
+        "Nikumbha": {
+            "degree_centrality": 0.07065217391304347,
+            "eigenvector_centrality": 0.002170142069946496
+        },
+        "Simhika": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 0.0010007216105940241
+        },
+        "Maharshi": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 0.00023892822583038706
+        },
+        "Sudarshana": {
+            "degree_centrality": 0.025815217391304348,
+            "eigenvector_centrality": 0.0006340323031907029
+        },
+        "Subhadra": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 9.630592971313736e-05
+        },
+        "Tala": {
+            "degree_centrality": 0.012228260869565216,
+            "eigenvector_centrality": 5.8297274304813734e-05
+        },
+        "Yuddhotama": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 5.008464253109439e-05
+        },
+        "Suchakshu": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 7.63711416782757e-05
+        },
+        "Dushana": {
+            "degree_centrality": 0.042119565217391304,
+            "eigenvector_centrality": 0.007762967259482738
+        },
+        "Vinita": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 0.0001805258013154834
+        },
+        "Arigna": {
+            "degree_centrality": 0.024456521739130432,
+            "eigenvector_centrality": 7.97085009551158e-06
+        },
+        "Vavaata": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 3.3808072527186883e-07
+        },
+        "Nagadantha": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 2.729118287236415e-06
+        },
+        "Sigru": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 2.1917213157139176e-75
+        },
+        "Atikaya": {
+            "degree_centrality": 0.04619565217391304,
+            "eigenvector_centrality": 0.0040224385269929126
+        },
+        "Suvarnakarani": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 2.4476760322916617e-05
+        },
+        "Suketu": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 1.2110561820583128e-05
+        },
+        "Savarankarani": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 0.0002518107912964229
+        },
+        "Kapila": {
+            "degree_centrality": 0.021739130434782608,
+            "eigenvector_centrality": 3.411336223252891e-05
+        },
+        "Devasakha": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 4.1233562889493124e-05
+        },
+        "Suryaksha": {
+            "degree_centrality": 0.021739130434782608,
+            "eigenvector_centrality": 0.0006057708654041757
+        },
+        "Vimala": {
+            "degree_centrality": 0.028532608695652172,
+            "eigenvector_centrality": 0.00031110920571238994
+        },
+        "Sukha": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 3.481233878698526e-05
+        },
+        "Bhagiratha": {
+            "degree_centrality": 0.025815217391304348,
+            "eigenvector_centrality": 0.0021595728870195214
+        },
+        "Kumuda": {
+            "degree_centrality": 0.0638586956521739,
+            "eigenvector_centrality": 0.002351965077425355
+        },
+        "Ogha": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 5.657168033881947e-05
+        },
+        "Sugriva": {
+            "degree_centrality": 0.18614130434782608,
+            "eigenvector_centrality": 0.1720515528138015
+        },
+        "Supatala": {
+            "degree_centrality": 0.012228260869565216,
+            "eigenvector_centrality": 0.00045308364847889115
+        },
+        "Narantaka": {
+            "degree_centrality": 0.0638586956521739,
+            "eigenvector_centrality": 0.0009453772937920498
+        },
+        "Jamadagni": {
+            "degree_centrality": 0.017663043478260868,
+            "eigenvector_centrality": 0.0030504759427645413
+        },
+        "Meghamali": {
+            "degree_centrality": 0.02309782608695652,
+            "eigenvector_centrality": 0.0006311499755966582
+        },
+        "Pulastya": {
+            "degree_centrality": 0.021739130434782608,
+            "eigenvector_centrality": 9.876371907454516e-05
+        },
+        "Dhruva": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 2.6648287468162744e-06
+        },
+        "Kahola": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 0.00020017498257462926
+        },
+        "Jabali": {
+            "degree_centrality": 0.021739130434782608,
+            "eigenvector_centrality": 0.0015550036023562752
+        },
+        "Dhrishta": {
+            "degree_centrality": 0.025815217391304348,
+            "eigenvector_centrality": 5.226080050003808e-05
+        },
+        "Dhumaketu": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 0.00012570042253426638
+        },
+        "Vidyuddhamshtra": {
+            "degree_centrality": 0.02309782608695652,
+            "eigenvector_centrality": 0.00026463696105279567
+        },
+        "Sambara": {
+            "degree_centrality": 0.019021739130434784,
+            "eigenvector_centrality": 0.000300582315935079
+        },
+        "Vinata": {
+            "degree_centrality": 0.050271739130434784,
+            "eigenvector_centrality": 0.001679664646788388
+        },
+        "Dardura": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 0.00015258734306882284
+        },
+        "Avanmukha": {
+            "degree_centrality": 0.021739130434782608,
+            "eigenvector_centrality": 0.00031051050704151924
+        },
+        "Pragvata": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 8.705180299881636e-05
+        },
+        "Jharjha": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 4.1771151512818915e-06
+        },
+        "Saibya": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 1.2630943924960936e-05
+        },
+        "Aryama": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 1.3982855291928011e-05
+        },
+        "Hiranyanabha": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 0.0001770760457353002
+        },
+        "Mahakaya": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 7.864309341023327e-06
+        },
+        "Dhritarashtri": {
+            "degree_centrality": 0.012228260869565216,
+            "eigenvector_centrality": 1.5533299386548083e-07
+        },
+        "Paranmukha": {
+            "degree_centrality": 0.017663043478260868,
+            "eigenvector_centrality": 0.00029159071393777125
+        },
+        "Parvati": {
+            "degree_centrality": 0.016304347826086956,
+            "eigenvector_centrality": 0.0006667156047946598
+        },
+        "Vatapi": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 6.188983317717679e-05
+        },
+        "Satyavati": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 0.0005598620797411064
+        },
+        "Suvrata": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 0.00013508221526117617
+        },
+        "Angada": {
+            "degree_centrality": 0.13451086956521738,
+            "eigenvector_centrality": 0.023149614317281603
+        },
+        "Ghana": {
+            "degree_centrality": 0.03260869565217391,
+            "eigenvector_centrality": 8.813547130167512e-05
+        },
+        "Samkhana": {
+            "degree_centrality": 0.010869565217391304,
+            "eigenvector_centrality": 1.416165369363351e-06
+        },
+        "Karnikara": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 0.0006024422476972515
+        },
+        "Lakshmana": {
+            "degree_centrality": 0.22826086956521738,
+            "eigenvector_centrality": 0.375990154867244
+        },
+        "Garga": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 6.0072335189057015e-05
+        },
+        "Jambavan": {
+            "degree_centrality": 0.09103260869565218,
+            "eigenvector_centrality": 0.009474344816023255
+        },
+        "Shravana": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 2.703791017972122e-05
+        },
+        "Shighraga": {
+            "degree_centrality": 0.01358695652173913,
+            "eigenvector_centrality": 0.00010251280450729392
+        },
+        "Mahamali": {
+            "degree_centrality": 0.04619565217391304,
+            "eigenvector_centrality": 0.0006638119073266991
+        },
+        "Kaikeyi": {
+            "degree_centrality": 0.05842391304347826,
+            "eigenvector_centrality": 0.06538750061362547
+        },
+        "Satodara": {
+            "degree_centrality": 0.02309782608695652,
+            "eigenvector_centrality": 0.0003117791167985344
+        },
+        "Krodhavasa": {
+            "degree_centrality": 0.029891304347826088,
+            "eigenvector_centrality": 0.00030947515146596924
+        },
+        "Pushpaka": {
+            "degree_centrality": 0.02717391304347826,
+            "eigenvector_centrality": 0.007454422849086171
+        },
+        "Varuna": {
+            "degree_centrality": 0.08695652173913043,
+            "eigenvector_centrality": 0.011053307475137926
+        },
+        "Vishala": {
+            "degree_centrality": 0.014945652173913044,
+            "eigenvector_centrality": 0.0016468380227580943
+        },
+        "Vaswokasara": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 0.00012192299218330783
+        },
+        "Bhriguprasravana": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 2.001954163752998e-06
+        },
+        "Abhikala": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 1.513633450182908e-08
+        },
+        "Ekasala": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 6.290062914871037e-05
+        },
+        "Mahim": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 3.8106411731581357e-06
+        },
+        "Pratindhaka": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 9.993132899286601e-08
+        },
+        "Rishika": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 0.00016188343596363814
+        },
+        "Kamadhenu": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 0.0004348168644354755
+        },
+        "Bharunda": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 4.353559487713659e-05
+        },
+        "Kunjara": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 0.000153987663395646
+        },
+        "Prahasta": {
+            "degree_centrality": 0.07065217391304347,
+            "eigenvector_centrality": 0.006757532463266269
+        },
+        "Urmila": {
+            "degree_centrality": 0.01358695652173913,
+            "eigenvector_centrality": 0.0017014523639748654
+        },
+        "Dundhumara": {
+            "degree_centrality": 0.014945652173913044,
+            "eigenvector_centrality": 1.9758410167824568e-06
+        },
+        "Mithi": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 1.1469329552364018e-05
+        },
+        "Rumanvan": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 2.703789949355834e-05
+        },
+        "Asvavanti": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 0.00022901467355246677
+        },
+        "Tapa": {
+            "degree_centrality": 0.010869565217391304,
+            "eigenvector_centrality": 8.141408989274933e-05
+        },
+        "Gadhi": {
+            "degree_centrality": 0.010869565217391304,
+            "eigenvector_centrality": 0.00029142167653305835
+        },
+        "Durdhara": {
+            "degree_centrality": 0.021739130434782608,
+            "eigenvector_centrality": 0.0006358019560286629
+        },
+        "Gautama": {
+            "degree_centrality": 0.029891304347826088,
+            "eigenvector_centrality": 0.0030165086720050963
+        },
+        "Vali": {
+            "degree_centrality": 0.11141304347826086,
+            "eigenvector_centrality": 0.052676946549375325
+        },
+        "Akampana": {
+            "degree_centrality": 0.05298913043478261,
+            "eigenvector_centrality": 0.003965633619016246
+        },
+        "Sanatkumara": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 4.558512714664953e-05
+        },
+        "Dhumraksha": {
+            "degree_centrality": 0.04619565217391304,
+            "eigenvector_centrality": 0.0013922046022921287
+        },
+        "Sumitra": {
+            "degree_centrality": 0.033967391304347824,
+            "eigenvector_centrality": 0.01983833363115731
+        },
+        "Sala": {
+            "degree_centrality": 0.03668478260869565,
+            "eigenvector_centrality": 0.0006523368064643172
+        },
+        "Satyavan": {
+            "degree_centrality": 0.03804347826086957,
+            "eigenvector_centrality": 0.00039504470140451915
+        },
+        "Ashwapati": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 0.00020737522501936736
+        },
+        "Karaveeraksha": {
+            "degree_centrality": 0.020380434782608696,
+            "eigenvector_centrality": 0.000635887642718203
+        },
+        "Upasunda": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 0.00010388881839782999
+        },
+        "Parusha": {
+            "degree_centrality": 0.021739130434782608,
+            "eigenvector_centrality": 0.000636082838931107
+        },
+        "Manibhadra": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 4.4193377856545595e-05
+        },
+        "Sonitaksha": {
+            "degree_centrality": 0.059782608695652176,
+            "eigenvector_centrality": 0.00041114512296799773
+        },
+        "Brihaspati": {
+            "degree_centrality": 0.03940217391304348,
+            "eigenvector_centrality": 0.003890934415326989
+        },
+        "Vibhandaka": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 8.106650650990159e-07
+        },
+        "Parnasa": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 2.3756467539218885e-06
+        },
+        "Mainaka": {
+            "degree_centrality": 0.014945652173913044,
+            "eigenvector_centrality": 0.000662317487312365
+        },
+        "Surpanakha": {
+            "degree_centrality": 0.028532608695652172,
+            "eigenvector_centrality": 0.028046560451317953
+        },
+        "Pratiharatara": {
+            "degree_centrality": 0.017663043478260868,
+            "eigenvector_centrality": 0.00029159071393777125
+        },
+        "Satahrada": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 1.4163530893671355e-06
+        },
+        "Mahabala": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 6.222026412214472e-06
+        },
+        "Tara": {
+            "degree_centrality": 0.0625,
+            "eigenvector_centrality": 0.014376499464643762
+        },
+        "Kusika": {
+            "degree_centrality": 0.02309782608695652,
+            "eigenvector_centrality": 0.0019016759699179294
+        },
+        "Bheda": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 0.0001548171862743802
+        },
+        "Vajramushti": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 0.00010187154371539576
+        },
+        "Hastimukha": {
+            "degree_centrality": 0.04483695652173913,
+            "eigenvector_centrality": 9.791496121866591e-05
+        },
+        "Ikshvaku": {
+            "degree_centrality": 0.04755434782608695,
+            "eigenvector_centrality": 0.009597713777313277
+        },
+        "Prashushruva": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 4.163207855262042e-06
+        },
+        "Subhra": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 2.1917213157139176e-75
+        },
+        "Mashaka": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 0.00016184744191014133
+        },
+        "Maireya": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 3.121376173350708e-07
+        },
+        "Vishnupada": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 7.823352963684208e-06
+        },
+        "Hema": {
+            "degree_centrality": 0.016304347826086956,
+            "eigenvector_centrality": 1.7159766181544536e-05
+        },
+        "Sutikshna": {
+            "degree_centrality": 0.019021739130434784,
+            "eigenvector_centrality": 0.007390931686200562
+        },
+        "Susandhi": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 6.286515051471007e-05
+        },
+        "Kukshi": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 6.1822883691257214e-06
+        },
+        "Rishabha": {
+            "degree_centrality": 0.07065217391304347,
+            "eigenvector_centrality": 0.0020904435337325156
+        },
+        "Aruna": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 0.00013139678016316136
+        },
+        "Vijeya": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 3.061415069785057e-05
+        },
+        "Parivritti": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 3.3808072527186883e-07
+        },
+        "Sweta": {
+            "degree_centrality": 0.035326086956521736,
+            "eigenvector_centrality": 0.0007071671543353556
+        },
+        "Aditi": {
+            "degree_centrality": 0.02717391304347826,
+            "eigenvector_centrality": 0.0016258029993328873
+        },
+        "Sandhya": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 0.00035819162683177187
+        },
+        "Anjana": {
+            "degree_centrality": 0.010869565217391304,
+            "eigenvector_centrality": 7.545794485656493e-05
+        },
+        "Somagiri": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 4.099009530653755e-05
+        },
+        "Maharaja": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 0.0014774742661260605
+        },
+        "Rahu": {
+            "degree_centrality": 0.02309782608695652,
+            "eigenvector_centrality": 0.003032198884357688
+        },
+        "Sunaka": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 1.0099654099023517e-07
+        },
+        "Vikritha": {
+            "degree_centrality": 0.01358695652173913,
+            "eigenvector_centrality": 0.0003057218600555486
+        },
+        "Dhvajagriva": {
+            "degree_centrality": 0.04483695652173913,
+            "eigenvector_centrality": 9.838482264229555e-05
+        },
+        "Sudhruti": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 6.714412711287824e-08
+        },
+        "Rambhu": {
+            "degree_centrality": 0.020380434782608696,
+            "eigenvector_centrality": 0.0005694375421144287
+        },
+        "Angiras": {
+            "degree_centrality": 0.02717391304347826,
+            "eigenvector_centrality": 0.00020013202263637948
+        },
+        "Rohini": {
+            "degree_centrality": 0.03668478260869565,
+            "eigenvector_centrality": 0.005357965344328103
+        },
+        "Ucchaisrava": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 0.00011909553775140151
+        },
+        "Saragulma": {
+            "degree_centrality": 0.019021739130434784,
+            "eigenvector_centrality": 0.00013453676961993998
+        },
+        "Golabha": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 5.7950702538675915e-05
+        },
+        "Bharata": {
+            "degree_centrality": 0.14130434782608695,
+            "eigenvector_centrality": 0.13282404640021553
+        },
+        "Tilaka": {
+            "degree_centrality": 0.014945652173913044,
+            "eigenvector_centrality": 0.0002553686828655687
+        },
+        "Murachi": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 1.527706268079911e-84
+        },
+        "Mahanada": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 9.368372326049654e-06
+        },
+        "Mitarghna": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 0.0001996675547138394
+        },
+        "Kesini": {
+            "degree_centrality": 0.02309782608695652,
+            "eigenvector_centrality": 0.00010927773815710696
+        },
+        "Pramathi": {
+            "degree_centrality": 0.028532608695652172,
+            "eigenvector_centrality": 0.0006206638309104283
+        },
+        "Kumbhakarna": {
+            "degree_centrality": 0.1046195652173913,
+            "eigenvector_centrality": 0.02457432768273043
+        },
+        "Daksha": {
+            "degree_centrality": 0.033967391304347824,
+            "eigenvector_centrality": 0.0004523326404779259
+        },
+        "Mahaparshva": {
+            "degree_centrality": 0.059782608695652176,
+            "eigenvector_centrality": 0.0021919472808701397
+        },
+        "Prajaghna": {
+            "degree_centrality": 0.042119565217391304,
+            "eigenvector_centrality": 0.0001906155157436776
+        },
+        "Jwara": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 0.00012340176053893978
+        },
+        "Srimati": {
+            "degree_centrality": 0.020380434782608696,
+            "eigenvector_centrality": 1.6636734012800737e-05
+        },
+        "Brahmakarna": {
+            "degree_centrality": 0.03125,
+            "eigenvector_centrality": 6.921986520178533e-05
+        },
+        "Pratapana": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 2.3163257341259844e-06
+        },
+        "Dhana": {
+            "degree_centrality": 0.03125,
+            "eigenvector_centrality": 0.0007245831972070312
+        },
+        "Prabhava": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 7.276878467358654e-06
+        },
+        "Malini": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 1.7667483635881358e-06
+        },
+        "Sindhu": {
+            "degree_centrality": 0.020380434782608696,
+            "eigenvector_centrality": 0.00013592216225369197
+        },
+        "Sudhanva": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 0.00020338615685051617
+        },
+        "Kanka": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 0.0002627373848298384
+        },
+        "Janamejaya": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 8.481071535003781e-07
+        },
+        "Suryavan": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 7.629367153441142e-05
+        },
+        "Kapivati": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 8.352544085654825e-05
+        },
+        "Sumali": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 3.63333167504522e-05
+        },
+        "Sarabhanga": {
+            "degree_centrality": 0.017663043478260868,
+            "eigenvector_centrality": 0.0067970193409928525
+        },
+        "Nila": {
+            "degree_centrality": 0.10054347826086957,
+            "eigenvector_centrality": 0.008422735511457448
+        },
+        "Kirtiratha": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 6.455911203075815e-08
+        },
+        "Bakula": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 3.307039024681074e-06
+        },
+        "Sarvatirtha": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 8.351550457314931e-05
+        },
+        "Shatrughna": {
+            "degree_centrality": 0.051630434782608696,
+            "eigenvector_centrality": 0.01702909767012396
+        },
+        "Prasravana": {
+            "degree_centrality": 0.014945652173913044,
+            "eigenvector_centrality": 0.004626803136020705
+        },
+        "Bhaga": {
+            "degree_centrality": 0.017663043478260868,
+            "eigenvector_centrality": 0.00019508358242788422
+        },
+        "Ilvala": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 6.801679080312248e-06
+        },
+        "Salveya": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 1.930492870225974e-06
+        },
+        "Kumbhinasi": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 8.226784035929317e-05
+        },
+        "Anaranya": {
+            "degree_centrality": 0.012228260869565216,
+            "eigenvector_centrality": 0.00043471601038071325
+        },
+        "Mahavira": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 3.179112299179034e-08
+        },
+        "Anshudhana": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 1.8006902742502297e-06
+        },
+        "Vighana": {
+            "degree_centrality": 0.03260869565217391,
+            "eigenvector_centrality": 9.350168298093343e-05
+        },
+        "Suryaketu": {
+            "degree_centrality": 0.012228260869565216,
+            "eigenvector_centrality": 2.5654772225449464e-05
+        },
+        "Chandra": {
+            "degree_centrality": 0.025815217391304348,
+            "eigenvector_centrality": 0.00083015926725115
+        },
+        "Jrumbhaka": {
+            "degree_centrality": 0.020380434782608696,
+            "eigenvector_centrality": 0.0014209224856175755
+        },
+        "Neepa": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 3.968729632008933e-07
+        },
+        "Marichi": {
+            "degree_centrality": 0.025815217391304348,
+            "eigenvector_centrality": 0.0001221094696089993
+        },
+        "Rajathanabha": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 1.5653645802192804e-05
+        },
+        "Rama": {
+            "degree_centrality": 0.4633152173913043,
+            "eigenvector_centrality": 0.6341891088556544
+        },
+        "Bhasi": {
+            "degree_centrality": 0.01358695652173913,
+            "eigenvector_centrality": 2.616715679073678e-07
+        },
+        "Satananda": {
+            "degree_centrality": 0.016304347826086956,
+            "eigenvector_centrality": 0.0011908471317174205
+        },
+        "Agnivarna": {
+            "degree_centrality": 0.01358695652173913,
+            "eigenvector_centrality": 0.00010252912680276769
+        },
+        "Aviddha": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 0.0002348921092999808
+        },
+        "Veeramatsya": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 4.353559487713659e-05
+        },
+        "Kilasa": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 0.00011742759171405801
+        },
+        "Dhumraswa": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 0.000199734735382523
+        },
+        "Srutakirti": {
+            "degree_centrality": 0.012228260869565216,
+            "eigenvector_centrality": 0.0007730778098325695
+        },
+        "Mandodari": {
+            "degree_centrality": 0.024456521739130432,
+            "eigenvector_centrality": 0.005376744830033964
+        },
+        "Valmiki": {
+            "degree_centrality": 0.012228260869565216,
+            "eigenvector_centrality": 0.002209350434744782
+        },
+        "Gramani": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 2.1917213157139176e-75
+        },
+        "Chitra": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 0.0012170012583518042
+        },
+        "Dhata": {
+            "degree_centrality": 0.021739130434782608,
+            "eigenvector_centrality": 0.0003090565319037603
+        },
+        "Shatha": {
+            "degree_centrality": 0.03125,
+            "eigenvector_centrality": 9.352838382831747e-05
+        },
+        "Suptaghna": {
+            "degree_centrality": 0.048913043478260865,
+            "eigenvector_centrality": 0.0005978840254047347
+        },
+        "Ananta": {
+            "degree_centrality": 0.019021739130434784,
+            "eigenvector_centrality": 0.00036431015417212365
+        },
+        "Bala": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 0.00043007754944427183
+        },
+        "Vishvavasu": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 2.0927915245765565e-06
+        },
+        "Nandana": {
+            "degree_centrality": 0.02309782608695652,
+            "eigenvector_centrality": 0.0014597143288521141
+        },
+        "Malyavan": {
+            "degree_centrality": 0.017663043478260868,
+            "eigenvector_centrality": 0.0016779776565158857
+        },
+        "Punarvasu": {
+            "degree_centrality": 0.010869565217391304,
+            "eigenvector_centrality": 0.0005027023687863074
+        },
+        "Danda": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 0.000131151818857626
+        },
+        "Vidyunmali": {
+            "degree_centrality": 0.03668478260869565,
+            "eigenvector_centrality": 0.0008520299648271758
+        },
+        "Rtadhama": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 7.629367153441142e-05
+        },
+        "Vikukshi": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 1.7014922872633207e-06
+        },
+        "Vishrava": {
+            "degree_centrality": 0.02309782608695652,
+            "eigenvector_centrality": 0.0007904045704826669
+        },
+        "Maru": {
+            "degree_centrality": 0.019021739130434784,
+            "eigenvector_centrality": 0.00020506485219442164
+        },
+        "Sunabha": {
+            "degree_centrality": 0.04076086956521739,
+            "eigenvector_centrality": 0.0006436950671494387
+        },
+        "Kumbhahanu": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 1.4518113948411894e-05
+        },
+        "Diti": {
+            "degree_centrality": 0.03260869565217391,
+            "eigenvector_centrality": 0.003192645106176861
+        },
+        "Balasura": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 2.2095047064905793e-05
+        },
+        "Gajapushpi": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 0.0002719478669011165
+        },
+        "Vrishabam": {
+            "degree_centrality": 0.019021739130434784,
+            "eigenvector_centrality": 0.00014378948467944977
+        },
+        "Sagara": {
+            "degree_centrality": 0.059782608695652176,
+            "eigenvector_centrality": 0.003054797031407236
+        },
+        "Raghu": {
+            "degree_centrality": 0.07472826086956522,
+            "eigenvector_centrality": 0.01928596920563946
+        },
+        "Yupaksha": {
+            "degree_centrality": 0.02717391304347826,
+            "eigenvector_centrality": 0.00041476308344290435
+        },
+        "Padmaka": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 8.227091047367769e-05
+        },
+        "Sama": {
+            "degree_centrality": 0.016304347826086956,
+            "eigenvector_centrality": 0.00026201139697696864
+        },
+        "Parjanya": {
+            "degree_centrality": 0.016304347826086956,
+            "eigenvector_centrality": 0.0009736167110514574
+        },
+        "Tamra": {
+            "degree_centrality": 0.02309782608695652,
+            "eigenvector_centrality": 2.583619314434962e-06
+        },
+        "Surya": {
+            "degree_centrality": 0.07065217391304347,
+            "eigenvector_centrality": 0.0011799181260331558
+        },
+        "Hiranmaya": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 1.2930494726541645e-08
+        },
+        "Indrajit": {
+            "degree_centrality": 0.13043478260869565,
+            "eigenvector_centrality": 0.03405958888864183
+        },
+        "Sumagadhi": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 7.024930672433645e-07
+        },
+        "Shuktiman": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 8.397229517146152e-05
+        },
+        "Aswakarna": {
+            "degree_centrality": 0.014945652173913044,
+            "eigenvector_centrality": 0.0002475389599887499
+        },
+        "Pitrusaumanasa": {
+            "degree_centrality": 0.029891304347826088,
+            "eigenvector_centrality": 1.3644735671634785e-05
+        },
+        "Uttanika": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 8.353520390890305e-05
+        },
+        "Prajangha": {
+            "degree_centrality": 0.02309782608695652,
+            "eigenvector_centrality": 0.00013797366264126697
+        },
+        "Prasenajit": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 8.37473041386025e-05
+        },
+        "Surabhi": {
+            "degree_centrality": 0.019021739130434784,
+            "eigenvector_centrality": 0.0005173367594194112
+        },
+        "Kalamahi": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 3.8106411731581357e-06
+        },
+        "Krathana": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 7.790040191869147e-06
+        },
+        "Bedha": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 4.1192396078202075e-08
+        },
+        "Maitra": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 2.2638780132162486e-05
+        },
+        "Urvasi": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 0.0002934696279240816
+        },
+        "Nalini": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 0.00016372087251644417
+        },
+        "Suchandra": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 0.00029998561065532265
+        },
+        "Damayanti": {
+            "degree_centrality": 0.01358695652173913,
+            "eigenvector_centrality": 7.986911141396045e-05
+        },
+        "Trijata": {
+            "degree_centrality": 0.021739130434782608,
+            "eigenvector_centrality": 0.006282939173956995
+        },
+        "Sachi": {
+            "degree_centrality": 0.035326086956521736,
+            "eigenvector_centrality": 0.004528972109774035
+        },
+        "Kovidara": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 0.00012057454667576633
+        },
+        "Sona": {
+            "degree_centrality": 0.06521739130434782,
+            "eigenvector_centrality": 0.0036273862146447874
+        },
+        "Manthara": {
+            "degree_centrality": 0.014945652173913044,
+            "eigenvector_centrality": 0.004707717751059341
+        },
+        "Rati": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 0.0002288810202568626
+        },
+        "Kausalya": {
+            "degree_centrality": 0.05298913043478261,
+            "eigenvector_centrality": 0.07102896610412082
+        },
+        "Sunda": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 0.00021440434790913075
+        },
+        "Ekajata": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 8.226784035929317e-05
+        },
+        "Yuvanashva": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 1.0697603910647988e-06
+        },
+        "Jaya": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 1.55850255028011e-06
+        },
+        "Kusamba": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 1.0555229325687098e-06
+        },
+        "Vajrahanu": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 0.0005101805550336316
+        },
+        "Shankhana": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 0.0001014179373269838
+        },
+        "Surasa": {
+            "degree_centrality": 0.03125,
+            "eigenvector_centrality": 0.0019443161123386854
+        },
+        "Tripura": {
+            "degree_centrality": 0.01358695652173913,
+            "eigenvector_centrality": 0.00030918860304955035
+        },
+        "Syenagami": {
+            "degree_centrality": 0.017663043478260868,
+            "eigenvector_centrality": 0.0008343079308228545
+        },
+        "Dhruvasandhi": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 0.0001672804599757839
+        },
+        "Malada": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 0.0001224376852285554
+        },
+        "Visakhu": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 1.9641012141391158e-05
+        },
+        "Vedavati": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 0.0002463090219914105
+        },
+        "Tamala": {
+            "degree_centrality": 0.012228260869565216,
+            "eigenvector_centrality": 3.307650848882077e-05
+        },
+        "Visalakarani": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 0.0001088741710600226
+        },
+        "Chudamani": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 0.0029893071698208003
+        },
+        "Durdarsha": {
+            "degree_centrality": 0.03804347826086957,
+            "eigenvector_centrality": 0.0004237442452418302
+        },
+        "Vidyudrupa": {
+            "degree_centrality": 0.033967391304347824,
+            "eigenvector_centrality": 8.78916214327625e-05
+        },
+        "Saarvabhauma": {
+            "degree_centrality": 0.010869565217391304,
+            "eigenvector_centrality": 9.32719919769478e-06
+        },
+        "Kadru": {
+            "degree_centrality": 0.019021739130434784,
+            "eigenvector_centrality": 0.000614581005643502
+        },
+        "Dilipa": {
+            "degree_centrality": 0.019021739130434784,
+            "eigenvector_centrality": 0.0009043259201873554
+        },
+        "Dhriti": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 0.0006023479628880512
+        },
+        "Pururava": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 0.0002934696279240816
+        },
+        "Padma": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 5.1700885747198204e-08
+        },
+        "Asamanja": {
+            "degree_centrality": 0.01358695652173913,
+            "eigenvector_centrality": 0.00028936860644758906
+        },
+        "Gavaya": {
+            "degree_centrality": 0.04755434782608695,
+            "eigenvector_centrality": 0.0009594029561935645
+        },
+        "Babhru": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 2.1917213157139176e-75
+        },
+        "Vasishta": {
+            "degree_centrality": 0.08288043478260869,
+            "eigenvector_centrality": 0.01590016694965705
+        },
+        "Punnaga": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 3.287888589586937e-05
+        },
+        "Damshtra": {
+            "degree_centrality": 0.04076086956521739,
+            "eigenvector_centrality": 0.00038788065251607324
+        },
+        "Anshuman": {
+            "degree_centrality": 0.016304347826086956,
+            "eigenvector_centrality": 0.0010336251881175433
+        },
+        "Bodhibhavana": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 3.329218060948728e-05
+        },
+        "Chyavana": {
+            "degree_centrality": 0.025815217391304348,
+            "eigenvector_centrality": 5.005036190767309e-05
+        },
+        "Satabali": {
+            "degree_centrality": 0.04076086956521739,
+            "eigenvector_centrality": 0.0011033118303492668
+        },
+        "Haridradaitya": {
+            "degree_centrality": 0.028532608695652172,
+            "eigenvector_centrality": 2.6545190272219957e-05
+        },
+        "Dasaksha": {
+            "degree_centrality": 0.02309782608695652,
+            "eigenvector_centrality": 0.00031180470107888293
+        },
+        "Satadru": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 0.00010445654756100579
+        },
+        "Atibala": {
+            "degree_centrality": 0.010869565217391304,
+            "eigenvector_centrality": 0.00019773895355129585
+        },
+        "Mitraghna": {
+            "degree_centrality": 0.010869565217391304,
+            "eigenvector_centrality": 7.878884545645154e-05
+        },
+        "Chuli": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 5.1872299532074316e-08
+        },
+        "Sukanya": {
+            "degree_centrality": 0.020380434782608696,
+            "eigenvector_centrality": 4.996503556341479e-05
+        },
+        "Praghasa": {
+            "degree_centrality": 0.057065217391304345,
+            "eigenvector_centrality": 0.00047240661724025015
+        },
+        "Kanva": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 9.976666999329743e-05
+        },
+        "Aksha": {
+            "degree_centrality": 0.01358695652173913,
+            "eigenvector_centrality": 0.0021829779283803275
+        },
+        "Kalindi": {
+            "degree_centrality": 0.016304347826086956,
+            "eigenvector_centrality": 0.0007845235126345637
+        },
+        "Siddhartha": {
+            "degree_centrality": 0.016304347826086956,
+            "eigenvector_centrality": 0.00031179498977606005
+        },
+        "Sandhani": {
+            "degree_centrality": 0.012228260869565216,
+            "eigenvector_centrality": 0.00027921279603004395
+        },
+        "Ghritachi": {
+            "degree_centrality": 0.014945652173913044,
+            "eigenvector_centrality": 7.411226805310276e-05
+        },
+        "Darimukha": {
+            "degree_centrality": 0.012228260869565216,
+            "eigenvector_centrality": 3.0344045299363042e-05
+        },
+        "Dhanya": {
+            "degree_centrality": 0.029891304347826088,
+            "eigenvector_centrality": 0.0007242412775394946
+        },
+        "Dakshayani": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 3.055594870582677e-07
+        },
+        "Parasurama": {
+            "degree_centrality": 0.025815217391304348,
+            "eigenvector_centrality": 0.005470504760375417
+        },
+        "Yagnaha": {
+            "degree_centrality": 0.016304347826086956,
+            "eigenvector_centrality": 0.0004099895691405273
+        },
+        "Prasusruka": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 1.2214803672380998e-06
+        },
+        "Dharmavardhana": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 9.771447547940758e-05
+        },
+        "Yajnakepu": {
+            "degree_centrality": 0.010869565217391304,
+            "eigenvector_centrality": 0.0001016225590175966
+        },
+        "Manu": {
+            "degree_centrality": 0.033967391304347824,
+            "eigenvector_centrality": 0.0010304068309282604
+        },
+        "Madhu": {
+            "degree_centrality": 0.019021739130434784,
+            "eigenvector_centrality": 0.0006194911680998012
+        },
+        "Nabhaga": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 0.000272572296998156
+        },
+        "Kaitabha": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 0.0001405401441937942
+        },
+        "Kaliyuga": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 8.226784035929317e-05
+        },
+        "Sarari": {
+            "degree_centrality": 0.020380434782608696,
+            "eigenvector_centrality": 0.00024262040121255955
+        },
+        "Bhadra": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 0.00016644423316382513
+        },
+        "Ahalya": {
+            "degree_centrality": 0.016304347826086956,
+            "eigenvector_centrality": 0.003049784888971809
+        },
+        "Jati": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 8.24308592600897e-05
+        },
+        "Sarabha": {
+            "degree_centrality": 0.0733695652173913,
+            "eigenvector_centrality": 0.002244890352803126
+        },
+        "Pralamba": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 1.7667483635881358e-06
+        },
+        "Hima": {
+            "degree_centrality": 0.010869565217391304,
+            "eigenvector_centrality": 1.3524082728603827e-05
+        },
+        "Vajrakaya": {
+            "degree_centrality": 0.016304347826086956,
+            "eigenvector_centrality": 2.5829872942864136e-05
+        },
+        "Abhijit": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 1.1453838563294458e-05
+        },
+        "Nagamala": {
+            "degree_centrality": 0.014945652173913044,
+            "eigenvector_centrality": 8.847871525262054e-07
+        },
+        "Arundhati": {
+            "degree_centrality": 0.019021739130434784,
+            "eigenvector_centrality": 0.0007208992951117611
+        },
+        "Kutikoshtika": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 4.355410748217402e-05
+        },
+        "Satrunjaya": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 0.0006659127852856271
+        },
+        "Vrinda": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 2.7164840328449657e-05
+        },
+        "Asaniprabha": {
+            "degree_centrality": 0.024456521739130432,
+            "eigenvector_centrality": 2.686004740235548e-05
+        },
+        "Mahakapala": {
+            "degree_centrality": 0.017663043478260868,
+            "eigenvector_centrality": 0.00040944546705939483
+        },
+        "Sushena": {
+            "degree_centrality": 0.10190217391304347,
+            "eigenvector_centrality": 0.006490109450969647
+        },
+        "Kusa": {
+            "degree_centrality": 0.02309782608695652,
+            "eigenvector_centrality": 0.0013578701070114864
+        },
+        "Dama": {
+            "degree_centrality": 0.025815217391304348,
+            "eigenvector_centrality": 6.889874542848536e-06
+        },
+        "Kartavirya": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 0.00017312123074104615
+        },
+        "Hiranyakasipu": {
+            "degree_centrality": 0.012228260869565216,
+            "eigenvector_centrality": 0.0004199424175403932
+        },
+        "Maharatha": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 4.622441541315794e-06
+        },
+        "Eladhana": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 4.182346279603933e-05
+        },
+        "Chandodari": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 7.629367153441142e-05
+        },
+        "Saptajana": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 0.0002584893896818631
+        },
+        "Shardula": {
+            "degree_centrality": 0.012228260869565216,
+            "eigenvector_centrality": 0.0007852762865730068
+        },
+        "Satyopayachana": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 9.902123934901226e-09
+        },
+        "Krodhana": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 8.243682907232689e-05
+        },
+        "Kamaruchi": {
+            "degree_centrality": 0.025815217391304348,
+            "eigenvector_centrality": 0.0007238396265183563
+        },
+        "Kampana": {
+            "degree_centrality": 0.02717391304347826,
+            "eigenvector_centrality": 9.62496329425335e-05
+        },
+        "Mahanabha": {
+            "degree_centrality": 0.02717391304347826,
+            "eigenvector_centrality": 0.00031183243265768063
+        },
+        "Mekhala": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 0.00022898923442893658
+        },
+        "Ahuka": {
+            "degree_centrality": 0.020380434782608696,
+            "eigenvector_centrality": 0.0001840486126670772
+        },
+        "Nimi": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 1.3145646818255676e-05
+        },
+        "Namuchi": {
+            "degree_centrality": 0.01358695652173913,
+            "eigenvector_centrality": 0.0007592832935368786
+        },
+        "Tishya": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 1.7002281566329897e-08
+        },
+        "Devamidha": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 1.2310784831347777e-10
+        },
+        "Satyakirti": {
+            "degree_centrality": 0.014945652173913044,
+            "eigenvector_centrality": 4.079812717860677e-06
+        },
+        "Valukini": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 2.5350689885813227e-05
+        },
+        "Vishnu": {
+            "degree_centrality": 0.15217391304347827,
+            "eigenvector_centrality": 0.016594164237855508
+        },
+        "Vajradamshtra": {
+            "degree_centrality": 0.0733695652173913,
+            "eigenvector_centrality": 0.00084172677794131
+        },
+        "Vidyujihva": {
+            "degree_centrality": 0.08152173913043478,
+            "eigenvector_centrality": 0.0015778741422992828
+        },
+        "Usirabeeja": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 1.079666143991877e-05
+        },
+        "Rajarshi": {
+            "degree_centrality": 0.024456521739130432,
+            "eigenvector_centrality": 0.0002248518836501629
+        },
+        "Bhuti": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 3.59843650362347e-08
+        },
+        "Rabhasa": {
+            "degree_centrality": 0.025815217391304348,
+            "eigenvector_centrality": 6.438606100227051e-05
+        },
+        "Atri": {
+            "degree_centrality": 0.03125,
+            "eigenvector_centrality": 0.002408803555702548
+        },
+        "Agni": {
+            "degree_centrality": 0.05570652173913043,
+            "eigenvector_centrality": 0.00203066024238514
+        },
+        "Sanku": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 2.883717819650631e-07
+        },
+        "Mahodaya": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 0.00011394439953783304
+        },
+        "Adhvaryu": {
+            "degree_centrality": 0.010869565217391304,
+            "eigenvector_centrality": 7.323659291357936e-05
+        },
+        "Gavaksha": {
+            "degree_centrality": 0.07201086956521739,
+            "eigenvector_centrality": 0.0018051578374399936
+        },
+        "Narada": {
+            "degree_centrality": 0.024456521739130432,
+            "eigenvector_centrality": 0.001465606239575467
+        },
+        "Bana": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 0.00012613392373841552
+        },
+        "Kumbha": {
+            "degree_centrality": 0.0625,
+            "eigenvector_centrality": 0.0019527813223458748
+        },
+        "Viswamitra": {
+            "degree_centrality": 0.09375,
+            "eigenvector_centrality": 0.029302541841909162
+        },
+        "Drumakulya": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 0.0005982134228994529
+        },
+        "Misrakesi": {
+            "degree_centrality": 0.01358695652173913,
+            "eigenvector_centrality": 4.850889804805668e-05
+        },
+        "Kusaswa": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 0.00010051130398135128
+        },
+        "Gokarna": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 2.554164893809311e-05
+        },
+        "Nata": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 0.00039956318131560985
+        },
+        "Mandavi": {
+            "degree_centrality": 0.012228260869565216,
+            "eigenvector_centrality": 0.0005768163789634261
+        },
+        "Mahapadma": {
+            "degree_centrality": 0.014945652173913044,
+            "eigenvector_centrality": 2.8429955849136195e-05
+        },
+        "Palakali": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 3.3808072527186883e-07
+        },
+        "Kama": {
+            "degree_centrality": 0.04755434782608695,
+            "eigenvector_centrality": 0.0023702288035020217
+        },
+        "Chitraratha": {
+            "degree_centrality": 0.012228260869565216,
+            "eigenvector_centrality": 0.0005475687007831267
+        },
+        "Vrtimanta": {
+            "degree_centrality": 0.029891304347826088,
+            "eigenvector_centrality": 1.1572311753769625e-05
+        },
+        "Santhana": {
+            "degree_centrality": 0.017663043478260868,
+            "eigenvector_centrality": 0.00211804060290667
+        },
+        "Sabala": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 0.0007915139668014837
+        },
+        "Vidhata": {
+            "degree_centrality": 0.020380434782608696,
+            "eigenvector_centrality": 0.0003873489331167139
+        },
+        "Jatarupasila": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 5.724655521730578e-08
+        },
+        "Sarana": {
+            "degree_centrality": 0.024456521739130432,
+            "eigenvector_centrality": 0.004123927899157505
+        },
+        "Svayamprabha": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 0.00018508917935373815
+        },
+        "Kasyapa": {
+            "degree_centrality": 0.059782608695652176,
+            "eigenvector_centrality": 0.0023435727253228902
+        },
+        "Mahamaya": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 0.00017999812734700694
+        },
+        "Sunetra": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 0.0004491819418942463
+        },
+        "Mitra": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 0.00018321743533400087
+        },
+        "Sadala": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 4.848187028958949e-05
+        },
+        "Pampa": {
+            "degree_centrality": 0.021739130434782608,
+            "eigenvector_centrality": 0.011742633233616937
+        },
+        "Suryasatru": {
+            "degree_centrality": 0.051630434782608696,
+            "eigenvector_centrality": 0.00042056823651909285
+        },
+        "Kunda": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 2.674944439253279e-07
+        },
+        "Nairasya": {
+            "degree_centrality": 0.02717391304347826,
+            "eigenvector_centrality": 0.0003105671732761529
+        },
+        "Suparshva": {
+            "degree_centrality": 0.02309782608695652,
+            "eigenvector_centrality": 0.00030228186487167666
+        },
+        "Sabari": {
+            "degree_centrality": 0.012228260869565216,
+            "eigenvector_centrality": 0.002114470624719481
+        },
+        "Mandhata": {
+            "degree_centrality": 0.012228260869565216,
+            "eigenvector_centrality": 0.0001218309093900794
+        },
+        "Nadi": {
+            "degree_centrality": 0.03125,
+            "eigenvector_centrality": 6.857308994420063e-05
+        },
+        "Vibhishana": {
+            "degree_centrality": 0.10190217391304347,
+            "eigenvector_centrality": 0.07158720972894014
+        },
+        "Rudhirasana": {
+            "degree_centrality": 0.02309782608695652,
+            "eigenvector_centrality": 1.7585696271185786e-05
+        },
+        "Drona": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 1.3044505214377445e-07
+        },
+        "Kabandha": {
+            "degree_centrality": 0.028532608695652172,
+            "eigenvector_centrality": 0.010267520225183395
+        },
+        "Satavaktra": {
+            "degree_centrality": 0.02309782608695652,
+            "eigenvector_centrality": 0.00031208917175778946
+        },
+        "Agastya": {
+            "degree_centrality": 0.06521739130434782,
+            "eigenvector_centrality": 0.00891080089694983
+        },
+        "Yagnasatru": {
+            "degree_centrality": 0.051630434782608696,
+            "eigenvector_centrality": 0.0006704973879006584
+        },
+        "Jatayu": {
+            "degree_centrality": 0.03125,
+            "eigenvector_centrality": 0.023937956458237188
+        },
+        "Kratu": {
+            "degree_centrality": 0.02309782608695652,
+            "eigenvector_centrality": 9.450551504059163e-05
+        },
+        "Viradha": {
+            "degree_centrality": 0.035326086956521736,
+            "eigenvector_centrality": 0.009011043663941232
+        },
+        "Sthanumati": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 4.203160061060513e-05
+        },
+        "Pushkara": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 0.00012852349834701891
+        },
+        "Vasu": {
+            "degree_centrality": 0.03125,
+            "eigenvector_centrality": 0.0008427668482572098
+        },
+        "Vamadeva": {
+            "degree_centrality": 0.020380434782608696,
+            "eigenvector_centrality": 0.0004398842571630359
+        },
+        "Suvarchala": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 0.0003988089485996352
+        },
+        "Mrugi": {
+            "degree_centrality": 0.017663043478260868,
+            "eigenvector_centrality": 0.00030955584788796637
+        },
+        "Dhanyamalini": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 0.00047758151645950036
+        },
+        "Kalapa": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 8.360126280241443e-08
+        },
+        "Anasuya": {
+            "degree_centrality": 0.016304347826086956,
+            "eigenvector_centrality": 0.009937637304410864
+        },
+        "Matali": {
+            "degree_centrality": 0.010869565217391304,
+            "eigenvector_centrality": 0.004677379352801856
+        },
+        "Chakramali": {
+            "degree_centrality": 0.017663043478260868,
+            "eigenvector_centrality": 8.201629488902976e-06
+        },
+        "Paka": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 0.00028848012092304006
+        },
+        "Mandakini": {
+            "degree_centrality": 0.01358695652173913,
+            "eigenvector_centrality": 0.0027817543675638665
+        },
+        "Vajra": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 0.00013660526468444205
+        },
+        "Himavan": {
+            "degree_centrality": 0.03804347826086957,
+            "eigenvector_centrality": 0.0017459475746732047
+        },
+        "Lopamudra": {
+            "degree_centrality": 0.019021739130434784,
+            "eigenvector_centrality": 4.99135474037798e-05
+        },
+        "Vayu": {
+            "degree_centrality": 0.03940217391304348,
+            "eigenvector_centrality": 0.0019709890823578643
+        },
+        "Vikata": {
+            "degree_centrality": 0.06929347826086957,
+            "eigenvector_centrality": 0.0005511687182022879
+        },
+        "Salyakarsna": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 4.185629023752201e-05
+        },
+        "Lamba": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 9.753839374664626e-05
+        },
+        "Bhima": {
+            "degree_centrality": 0.048913043478260865,
+            "eigenvector_centrality": 9.22870133439961e-05
+        },
+        "Sambasadana": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 0.0002501257368154692
+        },
+        "Yuddhonmatta": {
+            "degree_centrality": 0.05298913043478261,
+            "eigenvector_centrality": 0.0004823638386629279
+        },
+        "Vijaya": {
+            "degree_centrality": 0.03940217391304348,
+            "eigenvector_centrality": 0.0008618175979177774
+        },
+        "Aja": {
+            "degree_centrality": 0.01358695652173913,
+            "eigenvector_centrality": 0.0007868021309378006
+        },
+        "Sudama": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 7.88956755586845e-06
+        },
+        "Madhuchanda": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 0.0001043090157009938
+        },
+        "Sailusha": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 2.1917213157139176e-75
+        },
+        "Punjikasthala": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 1.2622137492241747e-05
+        },
+        "Airavata": {
+            "degree_centrality": 0.02309782608695652,
+            "eigenvector_centrality": 0.0008226164716390998
+        },
+        "Vasuki": {
+            "degree_centrality": 0.01358695652173913,
+            "eigenvector_centrality": 0.0007508492666605523
+        },
+        "Smriti": {
+            "degree_centrality": 0.010869565217391304,
+            "eigenvector_centrality": 0.0007550177459210978
+        },
+        "Hayagriva": {
+            "degree_centrality": 0.03125,
+            "eigenvector_centrality": 0.00030943671600697106
+        },
+        "Samudra": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 0.00012687827264590607
+        },
+        "Sthulaksha": {
+            "degree_centrality": 0.016304347826086956,
+            "eigenvector_centrality": 0.00040895566077879785
+        },
+        "Puloma": {
+            "degree_centrality": 0.012228260869565216,
+            "eigenvector_centrality": 0.0006221244808161698
+        },
+        "Jaghan": {
+            "degree_centrality": 0.025815217391304348,
+            "eigenvector_centrality": 9.196596331079922e-06
+        },
+        "Pavani": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 8.698935148990508e-05
+        },
+        "Vihanga": {
+            "degree_centrality": 0.019021739130434784,
+            "eigenvector_centrality": 0.0006360269472630158
+        },
+        "Yogandhara": {
+            "degree_centrality": 0.028532608695652172,
+            "eigenvector_centrality": 0.00031156191457832135
+        },
+        "Anala": {
+            "degree_centrality": 0.021739130434782608,
+            "eigenvector_centrality": 0.00015597903399944805
+        },
+        "Mantrapala": {
+            "degree_centrality": 0.012228260869565216,
+            "eigenvector_centrality": 5.0459986014630654e-05
+        },
+        "Bhrigu": {
+            "degree_centrality": 0.019021739130434784,
+            "eigenvector_centrality": 0.0005903180099845725
+        },
+        "Dhamba": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 4.320871127474641e-05
+        },
+        "Kala": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 0.00010590619675681189
+        },
+        "Dana": {
+            "degree_centrality": 0.010869565217391304,
+            "eigenvector_centrality": 0.00013336585351491774
+        },
+        "Vasudeva": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 6.327157940127846e-06
+        },
+        "Swayamvara": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 0.00015258734306882284
+        },
+        "Ruchika": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 1.1019344806500492e-06
+        },
+        "Bindusara": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 6.968946735423265e-06
+        },
+        "Pisacha": {
+            "degree_centrality": 0.04483695652173913,
+            "eigenvector_centrality": 9.788560447677175e-05
+        },
+        "Kartikeya": {
+            "degree_centrality": 0.043478260869565216,
+            "eigenvector_centrality": 0.0018427979052722744
+        },
+        "Sanjaya": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 0.00010009530903269323
+        },
+        "Arishta": {
+            "degree_centrality": 0.021739130434782608,
+            "eigenvector_centrality": 0.0006634552356568463
+        },
+        "Tataka": {
+            "degree_centrality": 0.020380434782608696,
+            "eigenvector_centrality": 0.0018181964874590662
+        },
+        "Pruthugriva": {
+            "degree_centrality": 0.019021739130434784,
+            "eigenvector_centrality": 0.0006361790173159218
+        },
+        "Nandivardhana": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 5.7379467792703925e-06
+        },
+        "Swarnaroma": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 9.790690509638526e-08
+        },
+        "Talajangha": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 2.091186515958202e-05
+        },
+        "Panasa": {
+            "degree_centrality": 0.048913043478260865,
+            "eigenvector_centrality": 0.0010573943743655573
+        },
+        "Karnakara": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 3.76087159503226e-07
+        },
+        "Sampati": {
+            "degree_centrality": 0.08695652173913043,
+            "eigenvector_centrality": 0.002724678953687341
+        },
+        "Plaha": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 8.67057053035974e-05
+        },
+        "Pushpalata": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 0.0002594654225030273
+        },
+        "Madhavi": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 0.0001761611467677868
+        },
+        "Kalakarmuka": {
+            "degree_centrality": 0.02309782608695652,
+            "eigenvector_centrality": 0.000337405499082678
+        },
+        "Somada": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 0.00011118939368703123
+        },
+        "Kalika": {
+            "degree_centrality": 0.024456521739130432,
+            "eigenvector_centrality": 0.00020305056730412151
+        },
+        "Tapana": {
+            "degree_centrality": 0.025815217391304348,
+            "eigenvector_centrality": 6.889874542848535e-06
+        },
+        "Pracheta": {
+            "degree_centrality": 0.017663043478260868,
+            "eigenvector_centrality": 8.802235141481307e-06
+        },
+        "Kesari": {
+            "degree_centrality": 0.03125,
+            "eigenvector_centrality": 0.00045523654008134117
+        },
+        "Vaijayanta": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 0.00014187334780790524
+        },
+        "Jambumali": {
+            "degree_centrality": 0.04483695652173913,
+            "eigenvector_centrality": 0.000648338405876459
+        },
+        "Nala": {
+            "degree_centrality": 0.08695652173913043,
+            "eigenvector_centrality": 0.003858361026869437
+        },
+        "Naraka": {
+            "degree_centrality": 0.02309782608695652,
+            "eigenvector_centrality": 0.0002639087430423646
+        },
+        "Prahlada": {
+            "degree_centrality": 0.017663043478260868,
+            "eigenvector_centrality": 0.0002803109574445389
+        },
+        "Tvashta": {
+            "degree_centrality": 0.012228260869565216,
+            "eigenvector_centrality": 0.0001724277206866419
+        },
+        "Subahu": {
+            "degree_centrality": 0.035326086956521736,
+            "eigenvector_centrality": 0.0018782953767292948
+        },
+        "Ambarisha": {
+            "degree_centrality": 0.03125,
+            "eigenvector_centrality": 0.0008486567011681905
+        },
+        "Visvachi": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 2.729118287236415e-06
+        },
+        "Krusana": {
+            "degree_centrality": 0.02717391304347826,
+            "eigenvector_centrality": 0.00031084984334347934
+        },
+        "Sumati": {
+            "degree_centrality": 0.019021739130434784,
+            "eigenvector_centrality": 0.00031739035342193833
+        },
+        "Jahnu": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 5.182668581233149e-05
+        },
+        "Virochana": {
+            "degree_centrality": 0.010869565217391304,
+            "eigenvector_centrality": 0.00031706702098312656
+        },
+        "Matanga": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 0.0010898500542833004
+        },
+        "Tinisa": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 3.2556492352347202e-06
+        },
+        "Jyothimukha": {
+            "degree_centrality": 0.03940217391304348,
+            "eigenvector_centrality": 0.00041591842010398923
+        },
+        "Makaraksha": {
+            "degree_centrality": 0.025815217391304348,
+            "eigenvector_centrality": 0.0015238112524636094
+        },
+        "Dhri": {
+            "degree_centrality": 0.029891304347826088,
+            "eigenvector_centrality": 1.0353900529588739e-05
+        },
+        "Udavasu": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 1.15004121201642e-05
+        },
+        "Yuddhajit": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 0.0006623634388391623
+        },
+        "Garuda": {
+            "degree_centrality": 0.05298913043478261,
+            "eigenvector_centrality": 0.007915487161612932
+        },
+        "Karala": {
+            "degree_centrality": 0.04483695652173913,
+            "eigenvector_centrality": 9.790028405487555e-05
+        },
+        "Gayatri": {
+            "degree_centrality": 0.016304347826086956,
+            "eigenvector_centrality": 0.0005243664284456124
+        },
+        "Markandeya": {
+            "degree_centrality": 0.012228260869565216,
+            "eigenvector_centrality": 0.00015511741902033343
+        },
+        "Ketu": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 0.00018852559321643205
+        },
+        "Kartaswara": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 4.1133924244287204e-05
+        },
+        "Riksha": {
+            "degree_centrality": 0.012228260869565216,
+            "eigenvector_centrality": 0.0001389394165651457
+        },
+        "Sarovara": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 3.7582637079378864e-06
+        },
+        "Samhbu": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 5.763318694288507e-06
+        },
+        "Rashmiketu": {
+            "degree_centrality": 0.07472826086956522,
+            "eigenvector_centrality": 0.0008393352963841317
+        },
+        "Kalpa": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 0.00011458321118365487
+        },
+        "Sunahsepha": {
+            "degree_centrality": 0.010869565217391304,
+            "eigenvector_centrality": 0.0005558996829625308
+        },
+        "Harijata": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 4.1133920179646585e-05
+        },
+        "Gadgada": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 2.7512396128655204e-05
+        },
+        "Kulinga": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 6.298348334264312e-05
+        },
+        "Sudharma": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 1.3295416868701141e-05
+        },
+        "Panchajana": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 0.00012024308912835355
+        },
+        "Chandrachitra": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 0.0001525892866637247
+        },
+        "Vishwarupa": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 4.6265615640306554e-05
+        },
+        "Lava": {
+            "degree_centrality": 0.010869565217391304,
+            "eigenvector_centrality": 0.0007445634486429437
+        },
+        "Manorama": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 0.00010422465268738032
+        },
+        "Maharoma": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 8.890571049846991e-08
+        },
+        "Kuru": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 0.00022667179698755048
+        },
+        "Vibudha": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 3.539659417675299e-08
+        },
+        "Ruma": {
+            "degree_centrality": 0.01358695652173913,
+            "eigenvector_centrality": 0.0012725294080927168
+        },
+        "Veerabahu": {
+            "degree_centrality": 0.02309782608695652,
+            "eigenvector_centrality": 0.0003795134667758769
+        },
+        "Varuthini": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 2.5350689885813227e-05
+        },
+        "Simsupa": {
+            "degree_centrality": 0.014945652173913044,
+            "eigenvector_centrality": 0.002717918041589509
+        },
+        "Ujjihana": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 4.174461905171503e-05
+        },
+        "Hemagiri": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 2.136917749482192e-08
+        },
+        "Bhaskarna": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 0.00017319742773503103
+        },
+        "Dyumatsena": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 0.000375647884838155
+        },
+        "Dadhimukha": {
+            "degree_centrality": 0.04076086956521739,
+            "eigenvector_centrality": 0.003012137114914759
+        },
+        "Suryanana": {
+            "degree_centrality": 0.02309782608695652,
+            "eigenvector_centrality": 0.00026463696105279567
+        },
+        "Dharmavrata": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 0.0002584893896818631
+        },
+        "Sudamshtra": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 1.4348540447926098e-06
+        },
+        "Sankochana": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 5.914284764701174e-06
+        },
+        "Bhrigutunda": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 0.00010057096719105653
+        },
+        "Mandra": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 6.685666826151726e-05
+        },
+        "Iravati": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 0.00010280499961513367
+        },
+        "Richika": {
+            "degree_centrality": 0.01358695652173913,
+            "eigenvector_centrality": 0.0003213806003188059
+        },
+        "Gava": {
+            "degree_centrality": 0.029891304347826088,
+            "eigenvector_centrality": 0.0005376437263049161
+        },
+        "Roopa": {
+            "degree_centrality": 0.02717391304347826,
+            "eigenvector_centrality": 0.0007238696804440601
+        },
+        "Dharma": {
+            "degree_centrality": 0.043478260869565216,
+            "eigenvector_centrality": 0.003158600323319664
+        },
+        "Yama": {
+            "degree_centrality": 0.07201086956521739,
+            "eigenvector_centrality": 0.010685514087247952
+        },
+        "Chandala": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 0.00022563587241996254
+        },
+        "Sumantra": {
+            "degree_centrality": 0.048913043478260865,
+            "eigenvector_centrality": 0.037875592643170274
+        },
+        "Mohini": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 2.6077843212280687e-06
+        },
+        "Ravana": {
+            "degree_centrality": 0.2717391304347826,
+            "eigenvector_centrality": 0.26171035752284727
+        },
+        "Brahma": {
+            "degree_centrality": 0.14130434782608695,
+            "eigenvector_centrality": 0.02007859282033887
+        },
+        "Kutika": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 6.26694584491824e-05
+        },
+        "Ajamukhi": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 0.00019812845415024706
+        },
+        "Magha": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 2.2764597357510193e-92
+        },
+        "Maricha": {
+            "degree_centrality": 0.05298913043478261,
+            "eigenvector_centrality": 0.024546015436921167
+        },
+        "Vitapavati": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 0.0004213264962459918
+        },
+        "Havishyanda": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 4.622441541315794e-06
+        },
+        "Virupaksha": {
+            "degree_centrality": 0.04483695652173913,
+            "eigenvector_centrality": 0.0017422127723458935
+        },
+        "Dundubhi": {
+            "degree_centrality": 0.010869565217391304,
+            "eigenvector_centrality": 0.001475453975911714
+        },
+        "Pundarika": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 0.0002993165265803213
+        },
+        "Nahusha": {
+            "degree_centrality": 0.02717391304347826,
+            "eigenvector_centrality": 0.0014235371466460216
+        },
+        "Kara": {
+            "degree_centrality": 0.03125,
+            "eigenvector_centrality": 0.0007245831972070312
+        },
+        "Vakra": {
+            "degree_centrality": 0.03125,
+            "eigenvector_centrality": 9.352838382831747e-05
+        },
+        "Guha": {
+            "degree_centrality": 0.02717391304347826,
+            "eigenvector_centrality": 0.011845212516163078
+        },
+        "Timidhvaja": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 0.0006521936514086075
+        },
+        "Devi": {
+            "degree_centrality": 0.028532608695652172,
+            "eigenvector_centrality": 0.009155775341065429
+        },
+        "Kandu": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 0.000410074737517727
+        },
+        "Krishna": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 0.00013403568438262388
+        },
+        "Maudgalya": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 9.812352251390647e-06
+        },
+        "Tamasa": {
+            "degree_centrality": 0.012228260869565216,
+            "eigenvector_centrality": 0.0014989061069467112
+        },
+        "Lakshaksha": {
+            "degree_centrality": 0.02309782608695652,
+            "eigenvector_centrality": 0.00031156030509513596
+        },
+        "Anuhlada": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 0.00018244729600216332
+        },
+        "Padmas": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 1.6075064481731862e-07
+        },
+        "Dwijihva": {
+            "degree_centrality": 0.029891304347826088,
+            "eigenvector_centrality": 0.0001557155862045393
+        },
+        "Sarpasya": {
+            "degree_centrality": 0.024456521739130432,
+            "eigenvector_centrality": 0.000632874411513998
+        },
+        "Menaka": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 0.00016988980416560308
+        },
+        "Dhava": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 0.00020241678065636927
+        },
+        "Samunnata": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 7.105273591629082e-06
+        },
+        "Ruchira": {
+            "degree_centrality": 0.03125,
+            "eigenvector_centrality": 1.4352181051975679e-05
+        },
+        "Prithu": {
+            "degree_centrality": 0.02309782608695652,
+            "eigenvector_centrality": 0.00010059702987536921
+        },
+        "Kirtirata": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 7.081598479513132e-08
+        },
+        "Lakshmi": {
+            "degree_centrality": 0.019021739130434784,
+            "eigenvector_centrality": 0.0019487010774523518
+        },
+        "Kharva": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 8.008662021843382e-08
+        },
+        "Mathangi": {
+            "degree_centrality": 0.014945652173913044,
+            "eigenvector_centrality": 0.0004058099011055381
+        },
+        "Aswatari": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 8.750799478992924e-05
+        },
+        "Bhadramada": {
+            "degree_centrality": 0.016304347826086956,
+            "eigenvector_centrality": 0.00040848093805507466
+        },
+        "Devantaka": {
+            "degree_centrality": 0.03940217391304348,
+            "eigenvector_centrality": 0.0008999791725457751
+        },
+        "Rambha": {
+            "degree_centrality": 0.048913043478260865,
+            "eigenvector_centrality": 0.00079167430382228
+        },
+        "Sukanasa": {
+            "degree_centrality": 0.03260869565217391,
+            "eigenvector_centrality": 9.351706343314557e-05
+        },
+        "Mrtasanjivani": {
+            "degree_centrality": 0.012228260869565216,
+            "eigenvector_centrality": 0.00027939435641632406
+        },
+        "Suyajna": {
+            "degree_centrality": 0.020380434782608696,
+            "eigenvector_centrality": 0.004509846169752113
+        },
+        "Brahmadatta": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 0.0003301228111551738
+        },
+        "Bharta": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 0.00012057454667576633
+        },
+        "Tumburu": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 9.129481709676404e-05
+        },
+        "Udgata": {
+            "degree_centrality": 0.010869565217391304,
+            "eigenvector_centrality": 4.626820385409963e-05
+        },
+        "Pavaksha": {
+            "degree_centrality": 0.020380434782608696,
+            "eigenvector_centrality": 5.907621714818547e-05
+        },
+        "Kushaplavana": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 1.3717244831802623e-06
+        },
+        "Mahidhraka": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 7.078665221663608e-08
+        },
+        "Drudhanetra": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 4.622441541315794e-06
+        },
+        "Drishtaketu": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 1.0302181089786036e-07
+        },
+        "Takshaka": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 0.00020395225869883414
+        },
+        "Vaidurya": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 0.00020311954054139388
+        },
+        "Mahodara": {
+            "degree_centrality": 0.0625,
+            "eigenvector_centrality": 0.005478453327484985
+        },
+        "Katyayana": {
+            "degree_centrality": 0.016304347826086956,
+            "eigenvector_centrality": 0.00029927699491141493
+        },
+        "Daana": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 4.1192396078202075e-08
+        },
+        "Krounchi": {
+            "degree_centrality": 0.01358695652173913,
+            "eigenvector_centrality": 2.7826511301941296e-07
+        },
+        "Durmukha": {
+            "degree_centrality": 0.033967391304347824,
+            "eigenvector_centrality": 0.00026978958214949743
+        },
+        "Prasamana": {
+            "degree_centrality": 0.029891304347826088,
+            "eigenvector_centrality": 2.7340486682195435e-05
+        },
+        "Nandi": {
+            "degree_centrality": 0.01358695652173913,
+            "eigenvector_centrality": 0.0009697366647441575
+        },
+        "Avarana": {
+            "degree_centrality": 0.021739130434782608,
+            "eigenvector_centrality": 0.0014209352074960448
+        },
+        "Makha": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 3.3292178231366303e-05
+        },
+        "Kalaka": {
+            "degree_centrality": 0.01358695652173913,
+            "eigenvector_centrality": 2.6151086337129226e-07
+        },
+        "Trishanku": {
+            "degree_centrality": 0.017663043478260868,
+            "eigenvector_centrality": 0.001552925185016341
+        },
+        "Sarayu": {
+            "degree_centrality": 0.029891304347826088,
+            "eigenvector_centrality": 0.001909141311174045
+        },
+        "Ganga": {
+            "degree_centrality": 0.07472826086956522,
+            "eigenvector_centrality": 0.011240981208294407
+        },
+        "Matta": {
+            "degree_centrality": 0.0625,
+            "eigenvector_centrality": 0.0005842823476639428
+        },
+        "Mahabhaga": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 2.161220594842858e-07
+        },
+        "Mali": {
+            "degree_centrality": 0.029891304347826088,
+            "eigenvector_centrality": 1.0353900529588739e-05
+        },
+        "Haryasva": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 1.3524276848477074e-07
+        },
+        "Trishira": {
+            "degree_centrality": 0.051630434782608696,
+            "eigenvector_centrality": 0.009710706382247825
+        },
+        "Vishama": {
+            "degree_centrality": 0.02309782608695652,
+            "eigenvector_centrality": 0.00031156030509513596
+        },
+        "Varutha": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 7.505516177385324e-05
+        },
+        "Dhumra": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 0.00024830727452391306
+        },
+        "Jata": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 1.527706268079911e-84
+        },
+        "Sannadana": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 0.00014036339124705313
+        },
+        "Mahishi": {
+            "degree_centrality": 0.008152173913043478,
+            "eigenvector_centrality": 3.3808072527186883e-07
+        },
+        "Ashtavakra": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 0.00016631805541885534
+        },
+        "Makara": {
+            "degree_centrality": 0.033967391304347824,
+            "eigenvector_centrality": 5.4686191445062614e-05
+        },
+        "Gaja": {
+            "degree_centrality": 0.06114130434782609,
+            "eigenvector_centrality": 0.001530775022007217
+        },
+        "Jayanta": {
+            "degree_centrality": 0.014945652173913044,
+            "eigenvector_centrality": 6.942355912019458e-05
+        },
+        "Dvivida": {
+            "degree_centrality": 0.10054347826086957,
+            "eigenvector_centrality": 0.004389534474369846
+        },
+        "Maharuna": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 3.9262381012850944e-10
+        },
+        "Khara": {
+            "degree_centrality": 0.06657608695652174,
+            "eigenvector_centrality": 0.03332754606292351
+        },
+        "Syandika": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 0.0002756981458342291
+        },
+        "Kusadhwaja": {
+            "degree_centrality": 0.019021739130434784,
+            "eigenvector_centrality": 0.0003394653574880285
+        },
+        "Devarata": {
+            "degree_centrality": 0.012228260869565216,
+            "eigenvector_centrality": 0.00020205530915100292
+        },
+        "Yamasatru": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 5.920580647199441e-06
+        },
+        "Vashatkara": {
+            "degree_centrality": 0.001358695652173913,
+            "eigenvector_centrality": 2.2764597357510193e-92
+        },
+        "Shanta": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 0.00013354644401387264
+        },
+        "Hrasvakarna": {
+            "degree_centrality": 0.021739130434782608,
+            "eigenvector_centrality": 2.621413088460681e-05
+        },
+        "Katha": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 0.00017725478555209164
+        },
+        "Janaka": {
+            "degree_centrality": 0.07880434782608696,
+            "eigenvector_centrality": 0.03643606603790565
+        },
+        "Alambusa": {
+            "degree_centrality": 0.017663043478260868,
+            "eigenvector_centrality": 0.0004485488468186241
+        },
+        "Yamuna": {
+            "degree_centrality": 0.024456521739130432,
+            "eigenvector_centrality": 0.002245093316742458
+        },
+        "Shanka": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 8.249205626633704e-05
+        },
+        "Mriga": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 6.683053426931787e-05
+        },
+        "Suprabha": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 7.132530339965136e-08
+        },
+        "Pulaha": {
+            "degree_centrality": 0.016304347826086956,
+            "eigenvector_centrality": 8.658194067351708e-06
+        },
+        "Kaikasi": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 0.0002348921092999808
+        },
+        "Golangula": {
+            "degree_centrality": 0.017663043478260868,
+            "eigenvector_centrality": 0.0003887430760293958
+        },
+        "Kubera": {
+            "degree_centrality": 0.07880434782608696,
+            "eigenvector_centrality": 0.012709571636442304
+        },
+        "Visalyakarani": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 2.7675712159677508e-05
+        },
+        "Mayavi": {
+            "degree_centrality": 0.002717391304347826,
+            "eigenvector_centrality": 4.990391261907294e-05
+        },
+        "Kardama": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 0.00030557685278897675
+        },
+        "Hanuman": {
+            "degree_centrality": 0.2513586956521739,
+            "eigenvector_centrality": 0.1551396501735482
+        },
+        "Dundunabha": {
+            "degree_centrality": 0.02717391304347826,
+            "eigenvector_centrality": 0.0003115038934253173
+        },
+        "Sahadeva": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 3.3043400908239355e-07
+        },
+        "Dasharatha": {
+            "degree_centrality": 0.16168478260869565,
+            "eigenvector_centrality": 0.21186207757446335
+        },
+        "Kusanabha": {
+            "degree_centrality": 0.014945652173913044,
+            "eigenvector_centrality": 0.0004427758106309197
+        },
+        "Syeni": {
+            "degree_centrality": 0.014945652173913044,
+            "eigenvector_centrality": 4.3291753726648785e-06
+        },
+        "Samala": {
+            "degree_centrality": 0.010869565217391304,
+            "eigenvector_centrality": 3.3076259090518564e-05
+        },
+        "Mrugamanda": {
+            "degree_centrality": 0.017663043478260868,
+            "eigenvector_centrality": 0.00030947459948240486
+        },
+        "Madayanti": {
+            "degree_centrality": 0.019021739130434784,
+            "eigenvector_centrality": 8.437067382008252e-06
+        },
+        "Maya": {
+            "degree_centrality": 0.016304347826086956,
+            "eigenvector_centrality": 0.00044263168567235334
+        },
+        "Jambu": {
+            "degree_centrality": 0.009510869565217392,
+            "eigenvector_centrality": 0.0005560600869749609
+        },
+        "Vitardana": {
+            "degree_centrality": 0.006793478260869565,
+            "eigenvector_centrality": 0.00014644468890199008
+        },
+        "Romasa": {
+            "degree_centrality": 0.043478260869565216,
+            "eigenvector_centrality": 9.690008557053549e-05
+        },
+        "Varada": {
+            "degree_centrality": 0.004076086956521739,
+            "eigenvector_centrality": 2.161220594842858e-07
+        },
+        "Manasa": {
+            "degree_centrality": 0.005434782608695652,
+            "eigenvector_centrality": 4.130477370473827e-06
+        }
+    },
+    "centrality_results_directed": {
+        "Parasurama": {
+            "degree_centrality": 0.01818181818181818,
+            "eigenvector_centrality": 0.005425582239151123
+        },
+        "Sampati": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Mainda": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 0.0035610700487041817
+        },
+        "Ayomukha": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 0.012296588026036061
+        },
+        "Suka": {
+            "degree_centrality": 0.01818181818181818,
+            "eigenvector_centrality": 0.002086904149421727
+        },
+        "Manu": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Kalika": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Shiva": {
+            "degree_centrality": 0.012121212121212121,
+            "eigenvector_centrality": 0.015236190521062272
+        },
+        "Kesari": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Sutikshna": {
+            "degree_centrality": 0.012121212121212121,
+            "eigenvector_centrality": 0.010365749307559005
+        },
+        "Indra": {
+            "degree_centrality": 0.024242424242424242,
+            "eigenvector_centrality": 0.011552389779254166
+        },
+        "Nala": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 0.00020554148780564703
+        },
+        "Ahalya": {
+            "degree_centrality": 0.012121212121212121,
+            "eigenvector_centrality": 0.0001041444800920778
+        },
+        "Aruna": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Sarabha": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 9.927933306925178e-05
+        },
+        "Aditi": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Subahu": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Maharaja": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 0.0002760251971058965
+        },
+        "Renuka": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Danu": {
+            "degree_centrality": 0.01818181818181818,
+            "eigenvector_centrality": 0.009723570400738265
+        },
+        "Sushena": {
+            "degree_centrality": 0.012121212121212121,
+            "eigenvector_centrality": 0.010178300004181663
+        },
+        "Makaraksha": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Kusa": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 0.005078730173687425
+        },
+        "Sita": {
+            "degree_centrality": 0.15151515151515152,
+            "eigenvector_centrality": 0.24470441098235288
+        },
+        "Angiras": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Bharata": {
+            "degree_centrality": 0.08484848484848485,
+            "eigenvector_centrality": 0.09264183212750492
+        },
+        "Shardula": {
+            "degree_centrality": 0.01818181818181818,
+            "eigenvector_centrality": 0.010700442599380477
+        },
+        "Asita": {
+            "degree_centrality": 0.012121212121212121,
+            "eigenvector_centrality": 2.932143012117637e-77
+        },
+        "Bharadwaja": {
+            "degree_centrality": 0.024242424242424242,
+            "eigenvector_centrality": 0.014049961740746082
+        },
+        "Sunahsepha": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Kumbhakarna": {
+            "degree_centrality": 0.04242424242424243,
+            "eigenvector_centrality": 0.020781957658749316
+        },
+        "Mahaparshva": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 0.0006047912534663495
+        },
+        "Vishnu": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 2.9321430121176354e-77
+        },
+        "Sarvakarani": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Vajradamshtra": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 0.002419165013865398
+        },
+        "Vidyujihva": {
+            "degree_centrality": 0.012121212121212121,
+            "eigenvector_centrality": 0.004020438719779225
+        },
+        "Sindhu": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Romapada": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 0.0001041444800920778
+        },
+        "Atri": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Agni": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Nikumbha": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Sarabhanga": {
+            "degree_centrality": 0.01818181818181818,
+            "eigenvector_centrality": 0.005182874653779502
+        },
+        "Nila": {
+            "degree_centrality": 0.030303030303030304,
+            "eigenvector_centrality": 0.025212715128093182
+        },
+        "Dadhimukha": {
+            "degree_centrality": 0.012121212121212121,
+            "eigenvector_centrality": 0.017174138561377388
+        },
+        "Shatrughna": {
+            "degree_centrality": 0.048484848484848485,
+            "eigenvector_centrality": 0.013852089296812838
+        },
+        "Gavaksha": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 9.25858526248225e-07
+        },
+        "Prasravana": {
+            "degree_centrality": 0.012121212121212121,
+            "eigenvector_centrality": 0.011227024186705455
+        },
+        "Dushana": {
+            "degree_centrality": 0.012121212121212121,
+            "eigenvector_centrality": 0.0001930225231822839
+        },
+        "Narada": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 1.4851113957478933e-77
+        },
+        "Bana": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Ilvala": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 0.0001012186196546262
+        },
+        "Viswamitra": {
+            "degree_centrality": 0.09090909090909091,
+            "eigenvector_centrality": 0.06420746303614455
+        },
+        "Dharma": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Atikaya": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 0.0061482940130180306
+        },
+        "Yama": {
+            "degree_centrality": 0.012121212121212121,
+            "eigenvector_centrality": 0.01134448369694291
+        },
+        "Chandala": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Sumantra": {
+            "degree_centrality": 0.03636363636363636,
+            "eigenvector_centrality": 0.04999551601739553
+        },
+        "Ravana": {
+            "degree_centrality": 0.12727272727272726,
+            "eigenvector_centrality": 0.06708223706781519
+        },
+        "Brahma": {
+            "degree_centrality": 0.05454545454545454,
+            "eigenvector_centrality": 0.018635623540810674
+        },
+        "Savarankarani": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Ajamukhi": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Maricha": {
+            "degree_centrality": 0.030303030303030304,
+            "eigenvector_centrality": 0.009426496740680142
+        },
+        "Rama": {
+            "degree_centrality": 0.2787878787878788,
+            "eigenvector_centrality": 0.5632927780271242
+        },
+        "Gokarna": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Bhagiratha": {
+            "degree_centrality": 0.012121212121212121,
+            "eigenvector_centrality": 0.00030536057506715776
+        },
+        "Satananda": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Mandavi": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Dundubhi": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 1.4851113957478933e-77
+        },
+        "Santhana": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Sugriva": {
+            "degree_centrality": 0.10909090909090909,
+            "eigenvector_centrality": 0.2705157363683369
+        },
+        "Narantaka": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Sabala": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Jamadagni": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 9.782244640106355e-05
+        },
+        "Mandodari": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Sarana": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 0.001209582506932699
+        },
+        "Guha": {
+            "degree_centrality": 0.030303030303030304,
+            "eigenvector_centrality": 0.048915825507376796
+        },
+        "Valmiki": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Kasyapa": {
+            "degree_centrality": 0.05454545454545454,
+            "eigenvector_centrality": 0.0051684923355398435
+        },
+        "Devi": {
+            "degree_centrality": 0.030303030303030304,
+            "eigenvector_centrality": 0.019443015892298236
+        },
+        "Kandu": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 0.0011870233495680606
+        },
+        "Pampa": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Tamasa": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Suparshva": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 0.0061482940130180306
+        },
+        "Sabari": {
+            "degree_centrality": 0.012121212121212121,
+            "eigenvector_centrality": 0.015236190521062272
+        },
+        "Vinata": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Vibhishana": {
+            "degree_centrality": 0.07878787878787878,
+            "eigenvector_centrality": 0.1316722192821749
+        },
+        "Malyavan": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 0.001209582506932699
+        },
+        "Vishrava": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Kabandha": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 0.0061482940130180306
+        },
+        "Agastya": {
+            "degree_centrality": 0.012121212121212121,
+            "eigenvector_centrality": 0.011227024186705455
+        },
+        "Sunabha": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Jatayu": {
+            "degree_centrality": 0.01818181818181818,
+            "eigenvector_centrality": 0.0006047912534663495
+        },
+        "Diti": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 4.659323836863253e-05
+        },
+        "Devantaka": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Rambha": {
+            "degree_centrality": 0.012121212121212121,
+            "eigenvector_centrality": 0.005182874653779502
+        },
+        "Viradha": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 0.0061482940130180306
+        },
+        "Angada": {
+            "degree_centrality": 0.06060606060606061,
+            "eigenvector_centrality": 0.02279806297982592
+        },
+        "Mrtasanjivani": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Sagara": {
+            "degree_centrality": 0.012121212121212121,
+            "eigenvector_centrality": 0.005078730173687425
+        },
+        "Raghu": {
+            "degree_centrality": 0.012121212121212121,
+            "eigenvector_centrality": 0.0053240575782362975
+        },
+        "Yupaksha": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Tamra": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Suyajna": {
+            "degree_centrality": 0.012121212121212121,
+            "eigenvector_centrality": 0.014569590266135204
+        },
+        "Indrajit": {
+            "degree_centrality": 0.03636363636363636,
+            "eigenvector_centrality": 0.03265284992400469
+        },
+        "Lakshmana": {
+            "degree_centrality": 0.20606060606060606,
+            "eigenvector_centrality": 0.6820068368053406
+        },
+        "Jambavan": {
+            "degree_centrality": 0.012121212121212121,
+            "eigenvector_centrality": 0.0056953546371043655
+        },
+        "Anasuya": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 0.017648519675041417
+        },
+        "Matali": {
+            "degree_centrality": 0.030303030303030304,
+            "eigenvector_centrality": 0.01621435356002083
+        },
+        "Mahodara": {
+            "degree_centrality": 0.024242424242424242,
+            "eigenvector_centrality": 0.007862286295062543
+        },
+        "Paka": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Mandakini": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Kaikeyi": {
+            "degree_centrality": 0.048484848484848485,
+            "eigenvector_centrality": 0.02721270807558809
+        },
+        "Himavan": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Krodhavasa": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Pushpaka": {
+            "degree_centrality": 0.012121212121212121,
+            "eigenvector_centrality": 0.00591390551703849
+        },
+        "Varuna": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 0.005078730173687425
+        },
+        "Vayu": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Vikata": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Vishala": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Trijata": {
+            "degree_centrality": 0.01818181818181818,
+            "eigenvector_centrality": 0.015236603330521806
+        },
+        "Sachi": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Nandi": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Trishanku": {
+            "degree_centrality": 0.01818181818181818,
+            "eigenvector_centrality": 0.0013659518703908538
+        },
+        "Sona": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 0.0002943947386284222
+        },
+        "Manthara": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 0.0017172918318421127
+        },
+        "Bhriguprasravana": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Sarayu": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Kausalya": {
+            "degree_centrality": 0.030303030303030304,
+            "eigenvector_centrality": 0.030617361575419815
+        },
+        "Ganga": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Kamadhenu": {
+            "degree_centrality": 0.01818181818181818,
+            "eigenvector_centrality": 0.0010298280006591249
+        },
+        "Trishira": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Prahasta": {
+            "degree_centrality": 0.024242424242424242,
+            "eigenvector_centrality": 0.001346934396254353
+        },
+        "Surasa": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Gaja": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 5.134304586604115e-05
+        },
+        "Dvivida": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 0.00038529154830687013
+        },
+        "Gadhi": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Khara": {
+            "degree_centrality": 0.024242424242424242,
+            "eigenvector_centrality": 0.015449437612946378
+        },
+        "Anala": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Gautama": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Vali": {
+            "degree_centrality": 0.024242424242424242,
+            "eigenvector_centrality": 0.008944462646047025
+        },
+        "Akampana": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 0.002419165013865398
+        },
+        "Bhrigu": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 4.5783963107218026e-05
+        },
+        "Shanta": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Sanatkumara": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 1.4851113957478933e-77
+        },
+        "Dhumraksha": {
+            "degree_centrality": 0.012121212121212121,
+            "eigenvector_centrality": 0.006203728669565438
+        },
+        "Sumitra": {
+            "degree_centrality": 0.030303030303030304,
+            "eigenvector_centrality": 0.01566642913556889
+        },
+        "Janaka": {
+            "degree_centrality": 0.04242424242424243,
+            "eigenvector_centrality": 0.0176056704459904
+        },
+        "Yamuna": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Asamanja": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 4.5783963107218026e-05
+        },
+        "Gavaya": {
+            "degree_centrality": 0.012121212121212121,
+            "eigenvector_centrality": 0.0009175749999646068
+        },
+        "Kubera": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Vasishta": {
+            "degree_centrality": 0.04242424242424243,
+            "eigenvector_centrality": 0.026922089079334986
+        },
+        "Brihaspati": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Anshuman": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 4.5783963107218026e-05
+        },
+        "Satabali": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 0.002438775267670663
+        },
+        "Hanuman": {
+            "degree_centrality": 0.16363636363636364,
+            "eigenvector_centrality": 0.16199243490423867
+        },
+        "Mainaka": {
+            "degree_centrality": 0.01818181818181818,
+            "eigenvector_centrality": 0.0001041444800920778
+        },
+        "Tataka": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Surpanakha": {
+            "degree_centrality": 0.01818181818181818,
+            "eigenvector_centrality": 0.005962070587373275
+        },
+        "Dasharatha": {
+            "degree_centrality": 0.05454545454545454,
+            "eigenvector_centrality": 0.08661718433638933
+        },
+        "Kusanabha": {
+            "degree_centrality": 0.012121212121212121,
+            "eigenvector_centrality": 0.0002137926488527217
+        },
+        "Praghasa": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 0.002206064959380177
+        },
+        "Tara": {
+            "degree_centrality": 0.030303030303030304,
+            "eigenvector_centrality": 0.02630916605296487
+        },
+        "Siddhartha": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 0.00048541517074324024
+        },
+        "Sandhani": {
+            "degree_centrality": 0.0,
+            "eigenvector_centrality": 3.807977937815112e-79
+        },
+        "Dakshayani": {
+            "degree_centrality": 0.006060606060606061,
+            "eigenvector_centrality": 1.4851113957478933e-77
+        }
+    },
+    "undirected_edges_top_10": [
+        [
+            [
+                "Rama",
+                "Sita"
+            ],
+            3468
+        ],
+        [
+            [
+                "Lakshmana",
+                "Rama"
+            ],
+            2798
+        ],
+        [
+            [
+                "Dasharatha",
+                "Rama"
+            ],
+            1685
+        ],
+        [
+            [
+                "Ravana",
+                "Sita"
+            ],
+            1409
+        ],
+        [
+            [
+                "Rama",
+                "Ravana"
+            ],
+            1156
+        ],
+        [
+            [
+                "Rama",
+                "Sugriva"
+            ],
+            1141
+        ],
+        [
+            [
+                "Bharata",
+                "Rama"
+            ],
+            1035
+        ],
+        [
+            [
+                "Hanuman",
+                "Sita"
+            ],
+            835
+        ],
+        [
+            [
+                "Lakshmana",
+                "Sita"
+            ],
+            725
+        ],
+        [
+            [
+                "Hanuman",
+                "Rama"
+            ],
+            563
+        ]
+    ],
+    "directed_edges_top_10": [
+        [
+            [
+                "Rama",
+                "Lakshmana"
+            ],
+            115
+        ],
+        [
+            [
+                "Lakshmana",
+                "Rama"
+            ],
+            55
+        ],
+        [
+            [
+                "Rama",
+                "Sugriva"
+            ],
+            36
+        ],
+        [
+            [
+                "Sugriva",
+                "Rama"
+            ],
+            34
+        ],
+        [
+            [
+                "Rama",
+                "Sita"
+            ],
+            32
+        ],
+        [
+            [
+                "Sita",
+                "Rama"
+            ],
+            29
+        ],
+        [
+            [
+                "Sita",
+                "Lakshmana"
+            ],
+            24
+        ],
+        [
+            [
+                "Rama",
+                "Vibhishana"
+            ],
+            22
+        ],
+        [
+            [
+                "Hanuman",
+                "Sita"
+            ],
+            18
+        ],
+        [
+            [
+                "Rama",
+                "Dasharatha"
+            ],
+            15
+        ]
+    ]
+}
