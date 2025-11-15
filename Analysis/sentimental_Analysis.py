@@ -18,7 +18,6 @@ TOP_N_FRACTAL_PROTAGONISTS = 30 # Characters considered in the sentiment analysi
 SENTIMENT_LEXICON = {
     'joy': 2.5, 'happy': 2.0, 'delight': 2.0, 'bless': 1.5, 'righteous': 1.5, 'virtuous': 1.0,
     'great': 1.0, 'mighty': 1.0, 'brave': 1.0, 'love': 2.5, 'truth': 1.5,
-    
     'anger': -3.0, 'wrath': -3.0, 'fury': -2.5, 'hate': -2.5, 'destroy': -2.0, 'kill': -2.0, 
     'sorrow': -2.0, 'grief': -2.0, 'weep': -1.0, 'afraid': -1.0, 'fear': -1.0, 'sin': -1.5, 
     'treachery': -2.5, 'evil': -2.5, 'demon': -1.0, 'rakshasa': -1.0
